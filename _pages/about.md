@@ -14,9 +14,15 @@ I have traveled to 28 provinces and more than 150 tourist cities in China.
 
 I have participated in the marathon twice and completed the full marathon (42.195 kilometres) in four hours and fifteen minutes.
 
+I finished my Ph.D. at Chinese Academy of Sciences in June 2019.
+
+I am now at [Henan University](http://www.henu.edu.cn/) ([Wiki](https://en.wikipedia.org/wiki/Henan_University)).
+
 
 Research Interest
 ======
+
+* Computer Networks
 
 * Network Architecture
 
