@@ -12,7 +12,6 @@ redirect_from:
 
 * 2013 Outstanding Graduate of Henan Province （河南省优秀毕业生）
 
-* 2011 Merit Student of Henan Province （河南省三好学生）
 
 
 ---
