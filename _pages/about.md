@@ -15,16 +15,20 @@ I have traveled to 28 provinces and more than 150 tourist cities in China.
 I have participated in the marathon twice and completed the full marathon (42.195 kilometres) in four hours and fifteen minutes.
 
 
-Research Interest
+Research Interests
 ======
 
-* Computer Networks
+* Network Architecture and Technologies
+  * Information-centric Networking (ICN)
+  * Software Defined Networking (SDN)
+  * Internet of Things
+  * Edge Computing
 
-* Network Architecture
-
-* Network Security and Privacy
-
-* Internet of Things
+* Network Security
+  * Privacy Enhancement Technologies
+  * Accountability
+  
+* Machine Learning
 
 
 Contact
