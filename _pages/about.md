@@ -21,16 +21,10 @@ I have participated in the marathon twice and completed the full marathon (42.19
 Research Interests
 ======
 
-* Network Architecture and Technologies
-  * Information-centric Networking (ICN)
-  * Software Defined Networking (SDN)
-  * Internet of Things
-  * Edge Computing
+* Network Architecture/Future Internet
 
 * Network Security
-  * Privacy Enhancement Technologies
-  * Accountability
-  
+
 * Machine Learning
 
 
