@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor in the School of Computer and Information Engineering at the Henan University.
+I am an associate professor in the School of Computer and Information Engineering at Henan University.
 
 I love traveling, photography, reading, collecting stamps, collecting park tickets, running and swimming.
 
