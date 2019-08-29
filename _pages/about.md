@@ -25,14 +25,12 @@ Research Interests
   * Information-centric Networking (ICN)
   * Software Defined Networking (SDN)
   * Mobile Communication Networks
-  * Distributed Computing
+  * Distributed Computing Networks
   * Edge Computing
 
 * Network Security and Privacy
   * Accountability
-  * Privacy
-
-* Machine Learning
+  * Privacy Protection
 
 
 Contact
