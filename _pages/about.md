@@ -38,11 +38,4 @@ Contact
 * Email: <a alt="address" href="mailto:&#00121;&#0117;&#0000120;&#00000105;&#0000097;&#0000110;&#0000103;&#0000046;&#00099;&#000110;&#0000064;&#0108;&#000105;&#00000118;&#00101;&#0046;&#00099;&#0111;&#x06d;">&#00121;&#0117;&#0000120;&#00000105;&#0000097;&#0000110;&#0000103;&#0000046;&#00099;&#000110;&#0000064;&#0108;&#000105;&#00000118;&#00101;&#0046;&#00099;&#0111;&#x06d;</a>
 
 
-About Henan University (HENU)
-======
-
-Henan University is located in Kaifeng, a famous historic city which is one of the Five Ancient Capitals of China, and used to be the capital of China during eight different dynasties. 
-
-Henan University is one of the oldest universities in China. The last two imperial examinations held here in 1903 and 1904 marked the end of the thousand-year-long imperial examination system. 
-
 ---
