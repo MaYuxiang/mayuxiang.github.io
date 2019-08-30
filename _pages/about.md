@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor in the School of Computer and Information Engineering at Henan University (one of the oldest publi universities in China).
+I am currently an associate professor in the School of Computer and Information Engineering at Henan University.
 
 I love traveling, photography, reading, collecting stamps, collecting park tickets, running and swimming.
 
 I have traveled to 28 provinces and more than 150 tourist cities in China.
 
 I have participated in the marathon twice and completed the full marathon (42.195 kilometres) in four hours and fifteen minutes.
-
 
 
 Research Interests
@@ -38,5 +37,12 @@ Contact
 
 * Email: <a alt="address" href="mailto:&#00121;&#0117;&#0000120;&#00000105;&#0000097;&#0000110;&#0000103;&#0000046;&#00099;&#000110;&#0000064;&#0108;&#000105;&#00000118;&#00101;&#0046;&#00099;&#0111;&#x06d;">&#00121;&#0117;&#0000120;&#00000105;&#0000097;&#0000110;&#0000103;&#0000046;&#00099;&#000110;&#0000064;&#0108;&#000105;&#00000118;&#00101;&#0046;&#00099;&#0111;&#x06d;</a>
 
+
+About Henan University (HENU)
+======
+
+Henan University is located in Kaifeng, a famous historic city which is one of the Five Ancient Capitals of China, and used to be the capital of China during eight different dynasties. 
+
+Henan University is one of the oldest universities in China. The last two imperial examinations held here in 1903 and 1904 marked the end of the thousand-year-long imperial examination system. 
 
 ---
