@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor in the School of Computer and Information Engineering at Henan University.
+I am currently an associate professor in the School of Computer and Information Engineering at Henan University (one of the oldest publi universities in China).
 
 I love traveling, photography, reading, collecting stamps, collecting park tickets, running and swimming.
 
@@ -28,7 +28,7 @@ Research Interests
   * Distributed Computing Networks
   * Edge Computing
 
-* Network Security and Privacy
+* Network Security
   * Accountability
   * Privacy Protection
 
