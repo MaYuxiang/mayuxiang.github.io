@@ -24,8 +24,8 @@ main:
   - title: "Awards"
     url: /awards/
     
-  - title: "About HENU"
-    url: /HENU/
+  # - title: "HENU"
+  #  url: /HENU/
     
   # - title: "Guide"
   #   url: /markdown/
