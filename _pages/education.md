@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 
-* 2013.09 -- 2019.06: Ph.D., Computer Architecture, Computer Network Information Center, Chinese Academy of Sciences.
+* 2013.09 -- 2019.06: Ph.D., Computer Architecture, University of Chinese Academy of Sciences (UCAS).
 
-* 2009.09 -- 2013.07: B.S., Network Engineering, Henan University.
-
-
+* 2009.09 -- 2013.06: B.S., Network Engineering, Henan University (HENU).
 
 
 ---
