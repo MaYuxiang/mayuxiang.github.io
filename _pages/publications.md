@@ -9,7 +9,7 @@ redirect_from:
 
 *  **Y. Ma**, Y. Wu, J. Li, and J. Ge, “APCN: A Scalable Architecture for Balancing Accountability and Privacy in Large-Scale Content-Based Networks,” *Information Sciences*, DOI: 10.1016/j.ins.2019.01.054, In Press. (SCI，IF: 5.524) [Paper](https://doi.org/10.1016/j.ins.2019.01.054)
 
-*  **Y. Ma**, Y. Wu, J. Ge, and L. Jun, “An Architecture for Accountable Anonymous Access in the Internet-of-Things Network,” *IEEE Access*, vol. 6, pp. 14451–14461, 2018. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/8292863/)
+*  **Y. Ma**, Y. Wu, J. Ge, and J. Li, “An Architecture for Accountable Anonymous Access in the Internet-of-Things Network,” *IEEE Access*, vol. 6, pp. 14451–14461, 2018. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/8292863/)
 
 *  **Y. Ma**, Y. Wu, J. Ge, and J. Li, “A Flow-Level Architecture for Balancing Accountability and Privacy,” in *IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)*. IEEE, 2018, pp. 984–989. (EI, CCF)
 
