@@ -20,7 +20,7 @@ I have participated in the marathon twice and completed the full marathon (42.19
 Research Interests
 ======
 
-* Network Architecture and Technologies
+* Future Internet Architecture and Technologies
 
 * Network Security and Privacy
 
