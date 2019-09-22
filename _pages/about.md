@@ -21,15 +21,8 @@ Research Interests
 ======
 
 * Network Architecture and Technologies
-  * Information-centric Networking (ICN)
-  * Software Defined Networking (SDN)
-  * Mobile Communication Networks
-  * Distributed Computing Networks
-  * Edge Computing
 
-* Network Security
-  * Accountability
-  * Privacy Protection
+* Network Security and Privacy
 
 
 Contact
