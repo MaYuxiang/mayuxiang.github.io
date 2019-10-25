@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor in the School of Computer and Information Engineering at Henan University (one of the oldest universities in China).
+I am currently an associate professor in the School of Computer and Information Engineering at Henan University * (one of the oldest universities in China).
 
 I love traveling, photography, reading, collecting stamps, collecting park tickets, running and swimming.
 
@@ -29,21 +29,6 @@ Contact
 ======
 
 * Email: <a alt="address" href="mailto:&#x0000079;&#x002e;&#00120;&#000046;&#x00006d;&#x0000061;&#x000040;&#x68;&#x00006f;&#116;&#0000109;&#97;&#0000105;&#00000108;&#00046;&#099;&#0111;&#000109;">&#x0000079;&#x002e;&#00120;&#000046;&#x00006d;&#x0000061;&#x000040;&#x68;&#x00006f;&#116;&#0000109;&#97;&#0000105;&#00000108;&#00046;&#099;&#0111;&#000109;</a>
-
-
-About HENU
-======
-
-Henan University is located in Kaifeng, a famous historic city which is one of the Five Ancient Capitals of China and used to be the capital of China during eight different dynasties. 
-
-Henan University is one of the oldest universities in China. The last two imperial examinations held here in 1903 and 1904 marked the end of the thousand-year-long imperial examination system. 
-
-HENU Website:
-
- * [Chinese](http://www.henu.edu.cn/)
- * [English](http://en.henu.edu.cn/)
-
----
 
 
 ---
