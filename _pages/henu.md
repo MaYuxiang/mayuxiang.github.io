@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "About Henan University (HENU)"
-permalink: /HENU/
+permalink: /henu/
 author_profile: true
 redirect_from:
-  - /HENU
+  - /henu
 ---
 
 
