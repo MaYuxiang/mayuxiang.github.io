@@ -17,6 +17,8 @@ redirect_from:
 
 *  **Y. Ma**, Y. Wu, J. Ge, and J. Li, “A New Architecture for Anonymous Use of Services in Distributed Computing Networks,” in *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)*.  IEEE, 2017, pp. 368–374. (EI, CCF)
 
+*  Q. Dong, J. Li, **Y. Ma**, and S. Han, “A Path Allocation Method Based on Source Routing in SDN Traffic Engineering,” in *IEEE International Conference on Smart Cloud (SmartCloud)*. IEEE, 2019, pp. 163-168. (EI)
+
 *  J. Qu, F. Liu, **Y. Ma**, and J. Fan, “A Neural-Network-Based Method for RUL Prediction and SOH Monitoring of Lithium-Ion Battery,” *IEEE Access*, vol. 7, pp. 87178–87191, 2019. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/8747502)
 
 *  J. Qu, F. Liu, **Y. Ma**, H. Li, and Z. Zhang, “LTE-R Network Optimization Analysis Method Based on Big Data Technology,” in *IEEE International Conference on Smart Cloud (SmartCloud)*. IEEE, 2018, pp. 175–180. (EI)
