@@ -23,7 +23,7 @@ redirect_from:
 
 *  J. Qu, F. Liu, **Y. Ma**, H. Li, and Z. Zhang, “LTE-R Network Optimization Analysis Method Based on Big Data Technology,” in *IEEE International Conference on Smart Cloud (SmartCloud)*. IEEE, 2018, pp. 175–180. (EI)
 
-*  董谦, **马宇翔**, 李俊. 边缘计算网络中面向负载均衡的调度机制[J]. 计算机应用研究, 2020, 37(3): 856-859. [Paper](www.arocmag.com/getarticle?aid=d92301620d4853cd)
+*  董谦, **马宇翔**, 李俊. 边缘计算网络中面向负载均衡的调度机制[J]. 计算机应用研究, 2020, 37(3): 856-859. [Paper](http://www.arocmag.com/getarticle?aid=d92301620d4853cd)
 
 *  董谦, 李俊, **马宇翔**, 韩淑君. 软件定义网络中基于分段路由的流量调度方法[J]. 通信学报, 2018, 39(11): 23-35. (EI) [Paper](http://www.infocomm-journal.com/txxb/CN/article/downloadArticleFile.do?attachType=PDF&id=167868)
 
