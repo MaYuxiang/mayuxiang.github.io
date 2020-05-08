@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Download"
-permalink: /henu/
+permalink: /download/
 author_profile: true
 redirect_from:
   - /download
