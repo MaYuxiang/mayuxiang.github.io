@@ -27,8 +27,8 @@ main:
   - title: "HENU"
     url: /henu/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Download"
+    url: /download/
   
   # - title: "Blog"
   #   url: https://yuxiangcn.github.io/
