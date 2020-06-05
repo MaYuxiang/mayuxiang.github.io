@@ -17,7 +17,7 @@ redirect_from:
 
 *  **Y. Ma**, Y. Wu, J. Ge, and J. Li, “A New Architecture for Anonymous Use of Services in Distributed Computing Networks,” in *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)*.  IEEE, 2017, pp. 368–374. (EI, CCF)
 
-*  Z. Yao, J. Ge, Y. Wu, X.Lin, R. He, and **Y. Ma**, “Encrypted traffic classification based on Gaussian mixture models and Hidden Markov Models,” *Journal of Network and Computer Applications*, vol. 166, pp. 102711, 2020. (SCI，IF: 5.273) [Paper](https://doi.org/10.1016/j.jnca.2020.102711)
+*  Z. Yao, J. Ge, Y. Wu, X. Lin, R. He, and **Y. Ma**, “Encrypted traffic classification based on Gaussian mixture models and Hidden Markov Models,” *Journal of Network and Computer Applications*, vol. 166, pp. 102711, 2020. (SCI，IF: 5.273) [Paper](https://doi.org/10.1016/j.jnca.2020.102711)
 
 *  J. Qu, F. Liu, **Y. Ma**, and J. Fan, “Temporal-Spatial Collaborative Prediction for LTE-R Communication Quality Based on Deep Learning,” *IEEE Access*, vol. 7, pp. 94817–94832, 2020. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/9095336)
 
