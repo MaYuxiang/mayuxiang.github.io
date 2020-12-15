@@ -7,6 +7,8 @@ redirect_from:
   - /publications
 ---
 
+*  **Y. Ma**, Y. Wu, and J. Ge, Accountability and Privacy in Network Security, Springer, ISBN: 978-981-15-6574-8, 2020. (Monograph)
+
 *  **Y. Ma**, Y. Wu, J. Li, and J. Ge, “APCN: A Scalable Architecture for Balancing Accountability and Privacy in Large-Scale Content-Based Networks,” *Information Sciences*, vol. 527, pp. 511-532, 2020. (SCI，IF: 5.524) [Paper](https://doi.org/10.1016/j.ins.2019.01.054)
 
 *  **Y. Ma**, Y. Wu, J. Ge, and J. Li, “An Architecture for Accountable Anonymous Access in the Internet-of-Things Network,” *IEEE Access*, vol. 6, pp. 14451–14461, 2018. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/8292863/)
