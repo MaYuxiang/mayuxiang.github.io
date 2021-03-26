@@ -9,7 +9,7 @@ redirect_from:
 
 *  **Y. Ma**, Y. Wu, and J. Ge, Accountability and Privacy in Network Security, Springer, ISBN: 978-981-15-6574-8, 2020. (Monograph)
 
-*  Y. Wu, Z. Wang, **Y. Ma**, and V. Leung, “Deep reinforcement learning for blockchain in industrial IoT: A survey*, vol. 191, pp. 108004, 2021. (SCI，IF: 3.111) [Paper](https://doi.org/10.1016/j.comnet.2021.108004)
+*  Y. Wu, Z. Wang, **Y. Ma**, and V. Leung, “Deep reinforcement learning for blockchain in industrial IoT: A survey,” *Computer Networks*, vol. 191, pp. 108004, 2021. (SCI，IF: 3.111) [Paper](https://doi.org/10.1016/j.comnet.2021.108004)
 
 *  Y. Wu, **Y. Ma**, H.-N. Dai, and H. Wang, “Deep learning for privacy preservation in autonomous moving platforms enhanced 5G heterogeneous networks,” *Computer Networks*, vol. 185, pp. 107743, 2021. (SCI，IF: 3.111) [Paper](https://doi.org/10.1016/j.comnet.2020.107743)
 
